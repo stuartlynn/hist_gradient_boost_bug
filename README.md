@@ -5,7 +5,7 @@ This repo is an example of an issue with SKlearns HistGradientBoosting models.
 When the model is trained on a 64 bit environment and pickled, it fails to properly load in a 32 bit environment 
 like pyodide 
 
-See this ticket for more info : 
+See this ticket for more info : https://github.com/scikit-learn/scikit-learn/issues/27952
 
 ## Running the example
 
